@@ -12,6 +12,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "exmo-api": "^0.1.0"
+    "exmo-api": "^0.1.0",
+    "node-telegram-bot-api": "^0.50.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }
